@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "arial";
+}
+
+#bulb {
+    margin: auto;
+    
+    display: block;
+}
+
+button {
+    margin-left: 394px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
